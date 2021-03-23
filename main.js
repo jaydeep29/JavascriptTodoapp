@@ -67,7 +67,7 @@ function showlist(){
                 
             </tr>
             
-            <button id="${index}"onclick ="deletenote(this.id)" class="delbtn">Delete Note</button>
+            <button id="${index}"onclick ="deletenote(this.id)" class="delbtn">Delete</button>
 
 
         </table>`;
